@@ -9,9 +9,14 @@ Explore delicious sweets, view prices, and order online with ease.
 
 > 📷 Home Page Preview  
 <img src="HomepageScreenshot.png" alt="Sweetshop Home Screenshot" style="max-width:100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+ 
 
-> 🎥 Live Demo (Screen Recording)  
-<video id="previewVideo" width="100%" muted autoplay loop style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); cursor: pointer;"> <source src="WebsiteOverview.webm" type="video/mp4"> Your browser does not support the video tag. </video> <script> const video = document.getElementById("previewVideo"); video.addEventListener("click", () => { video.paused ? video.play() : video.pause(); }); </script>
+
+## 🔴 Live Website
+
+👉 [Click here to watch live demo](https://CodeWithSonu678.github.io/Sweet-Shop/)
+
+
 
 ---
 
