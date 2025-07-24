@@ -56,6 +56,6 @@ Developed By: Sonu Yadav
 
 If you want a similar sweetshop website or any project like this:
 > 📩 **Email me at:** sy2440052@gmail.com  
-> 📲 **DM on Instagram:** [@sanatni_sonu__678](https://www.instagram.com/sanatni_sonu__678)
+> 📲 **DM on Instagram:** [@codewithsonu678](https://www.instagram.com/codewithsonu678)
 
 ---
