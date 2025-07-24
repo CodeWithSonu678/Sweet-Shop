@@ -194,8 +194,8 @@ fieldset {
   border-radius: 10px;
 }
 
-fieldset lagend {
-  font-size: 19px;
+fieldset #lagend_1 {
+  font-size: 30px;  
 }
 
 #order_about_container fieldset #input_1 {
@@ -204,6 +204,15 @@ fieldset lagend {
   min-width: 280px;
   height: 35px;
   padding: 10px 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 19px;
+}
+
+select {
+  width: 100%;
+  min-width: 280px;
+  height: 35px;
   box-sizing: border-box;
   border-radius: 4px;
   font-size: 19px;
@@ -228,6 +237,7 @@ fieldset lagend {
   font-size: 19px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 
